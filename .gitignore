@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+blogdown
+.DS_Store
